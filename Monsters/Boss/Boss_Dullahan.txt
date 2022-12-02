@@ -1,0 +1,39 @@
+Lunar Dullahan
+
+HP : 100-200
+
+Lvl 1
+
+AC : 11
+
+STR: 16 DEX 13 CON 12 INT 8 WIS 10 CHA 14
+
+Speed: 40ft
+
+Traits
+
+Red Gibbous: When Dullahan’s Head is a Red Gibbous Moon, it will attack with Red Gibbous Cross. This attack is 20ft Wide in a Cardinal Direction Cross (North, East, South, West)
+
+Blue Crescent : When Dullahan’s Head is a Blue Crescent Moon, it will attack each corner of the room with Blue Crescent Edge.  This is a 20ft area effect in each corner of the room.
+
+Tauntable : You may spend a bonus action to Taunt.  When you taunt, you gain the condition “Taunted” until the end of your next turn.
+
+Flat Footed : Any Opportunity Attacks made against Lunar Dullahan adds 1 Vulnerability Stack.
+
+Turns
+
+Phase Turn (20) : Lunar Dullahan’s head will either turn into a Red Gibbous Moon or a Blue Crescent Moon.
+
+Move Turn (12) : Lunar Dullahan moves up to their movement speed and attacks with Lunar Blade.  Lunar Dullahan focuses on creatures with the Taunted condition.  If it is unable to reach a creature who has the Taunted condition with one movement action, it replaces its Lunar Blade attack with another movement.
+
+Action Turn (6): Lunar Dullahan attacks twice with Lunar Blade to the taunted creature.  If the Taunted creature is not in Melee Range, it instead moves up to its movement speed, and attacks with 1 Lunar Blade.
+
+Execution Turn (1) : Lunar Dullahan moves to the center of the room, and attacks with either Red Gibbous Cross or Blue Crescent Edge depending on the phase it’s in.  If nobody is targeted this round, Lunar Dullahan gains a Vulnerability Stack
+
+Attacks
+
+Lunar Blade: To Hit - STR + Prof.  5ft.  Damage : 2 Slashing Damage.  On Crit : Attack again.  This effect can only go off once per round.
+
+Red Gibbous Cross : Dexterity Save - CHA + Prof.  On Hit : 4 True Damage.
+
+Blue Crescent Edge : Dexterity Save - CHA + Prof.  On Hit : 4 True Damage.

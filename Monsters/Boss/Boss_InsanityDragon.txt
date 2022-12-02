@@ -1,0 +1,106 @@
+Boss : Insanity of a Dragon
+
+HP : 770
+
+AC : 16
+
+STR 26 DEX 10 CON 26 INT 10 WIS 13 CHA 14
+
+Saving Throws : DEX +5, CON +13, WIS +6, CHA +7
+
+Traits
+
+Damage Vulnerabilities : The first source of Radiant Damage dealt to Insanity this round adds a Vulnerability Stack.  The first source of Force Damage dealt to Insanity this round adds a Vulnerability Stack.  The first source of Psychic Damage dealt to Insanity this round adds a Vulnerability Stack.
+
+Condition Superiority : At the top of the round, Insanity may end any ongoing Condition.
+
+Jaws of Insanity : The Jaw is now Targetable.  The Jaw has the same stats.  The Jaw has 100 HP.  Defeating the Jaw weakens Insanity’s Bite attack, deals True Damage to Insanity, adds a Vulnerability Stack, and adds a loot bonus roll.
+
+Claws of Insanity : The Claws are now Targetable.  The Claws have the same stats, and is resistant to all damage, but takes double damage from Bludgeoning.  The Claws have 100 HP.  Defeating the claw weakens Insanity’s Claw Attacks, deals True Damage to Insanity, adds a Vulnerability Stack, and adds a loot bonus roll.
+
+Tail of Insanity : As a reaction, Insanity can use a Tail Attack to any creature who enters it’s threatened space.  The Tail is now Targetable.  The Tail has the same stats, and is resistant to all damage, but takes double damage from Slashing.  The Tail has 100 HP.  Defeating the tail disables Insanity’s reactions, deals True Damage to Insanity, adds a Vulnerability Stack, and adds a loot bonus roll.
+
+Wings of Insanity : The Wings are now Targetable.  The Wings have the same stats, and is resistant to all damage, but takes double damage from Piercing.  The Wings have 100 HP.  Defeating the Wings disables the Prologue Turn’s Ability - Wing Flap, making Insanity skip this turn instead.  Insanity is dealt True Damage, and gains a Vulnerability stack.  Add a loot bonus roll.
+
+Unstable : Any damage dealt to Insanity adds an Unstable Counter.  At the end of the round, Insanity adds an Unstable Counter.  For every 100 HP Insanity loses, gain an additional Unstable Counter at the end of the round.
+
+Tauntable :  As a bonus action, you gain the Taunting Condition until the end of your next round.  You become the target of Insanity’s Tankbuster Turn.  If another creature gains the Taunting condition before the end of your next round, you lose the Taunting condition.
+
+Heavy Winds : At the end of your round, if you are not on the ground, you fall.  This is auto identified if someone attempts to Fly.
+
+Parry Maneuver :  As a reaction, before rolling to determine hit, a creature may Parry the attack roll, adding +3 to their AC.
+
+Tumble Maneuver : As a reaction, if targeted by an area of effect that requires a Save, you may move 5 ft in any direction before the attack goes off.  If you are out of the area, you are unaffected by the attack.
+
+Counterattack Maneuver : As a reaction, if you are the target of an attack/spell that requires a check to beat your AC, you may make a weapon attack.
+
+Counterspell Maneuver : As a reaction, if you are the target of an attack/spell that requires a check to beat your AC , you may cast a cantrip.
+
+Recover Maneuver : As a reaction, you heal for 1d8 HP.  This can be done before damage is dealt to your hit points.
+
+Rush Maneuver : As a reaction, you may take the dash action during your turn.  This Dash action must be used to move towards an enemy creature.
+
+Actions
+
+Prologue Turn (First) : At the top of the round, Insanity of a Dragon does one of the following in order.  After using Breath Weapon, the list repeats form the top.
+
+Wing Flap. Two 15ft x 999ft lines areas are created on the Battlefield from north to south.  This area counts as hindering Terrain.  Moving away from Insanity in these doubles movements.
+Insanity Explosions : 3 5ft radius of exploding area appear on the battlefield.  They must be placed as far away from all player characters, up to 50ft.  At the end of every player’s round, the explosions move 10ft.  Those in the area are attacked with Insanity Explosion.
+Breath Weapon : Instead of taking their Move Turn, at the end of this round, Insanity attacks with Psychic Breath Weapon.
+Action Turn (18) : Insanity attacks with 2 Claws and 1 Bite to random targets in Melee Range.  If no targets are in Melee, Insanity casts Madness Requiem.
+
+Tankbuster Turn (9) :  Insanity shifts to the creature with the Taunting Condition, attacking with Pounce, and shifting back to where they were at the start of their round.  If nobody has the Taunting Condition, Insanity attacks a random target.  Shifts do not provoke opportunity attacks.
+
+Execution Turn (1) : At 20 Unstable Charges, Insanity attacks with Madness Cascade. Madness Cascade deals Xd6 True Damage to all enemy targets on the battlefield, where X equals the number of Unstable Charges. Those that are behind cover away from Insanity are not targeted. Unstable Charges drop to 0.
+
+Move Turn (End of Round) : Insanity ends any movement impairing effects on them, including Prone. Insanity moves from North to South (or South to North).  Creatures that Insanity passes through are attacked with Rend. This Move provokes Opportunity Attacks. Any creature who misses their Opportunity Attack gets hit with a Claw. If you have the Sentinel Hit, and you successfully hit with your Opportunity Attack, the move still happens, but Rend is disabled until the end of the turn, and Insanity gains a Vulnerability Stack.
+
+Attacks
+
+Claw : +13 to hit, reach 10ft, one target.  On Hit: 2d6+8 Slashing Damage.
+
+Weakened Claw : +8 to hit, reach 10ft, one target.  On Hit: 1d6+8 Piercing Damage.
+
+Bite : +13 to hit, reach 10ft, one target.  On Hit, 2d10+8 Piercing Damage plus 2d8 Cold Damage.
+
+Weakened Bite: +8 to hit, reach 10ft, one target.  On Hit: 1d10+8 Piercing Damage plus 1d8 Cold Damage.
+
+Tail : +13 to hit, reach 10ft, one target.  On Hit: 2d8+8 Bludgeoning Damage.
+
+Pounce : +8 to hit, reach 10ft, one target.  On Hit: 4d10+8 Bludgeoning Damage.
+
+Madness Requiem : 10ft radius, INT Save DC 18, 10d6 Psychic Damage. On Save : Half Damage.
+
+Madness Cascade : Minimum 20d6 True Damage to all targets not behind cover from Insanity.
+
+Rend : +8 to hit, On Hit: 2d8+8 Piercing Damage.
+
+Psychic Breath Weapon : 90ft Cone.  INT Save DC 18, 16d8 Psychic Damage.  Those behind cover have Advantage.  Half as much on a successful save.
+
+Drops
+
+Cluster of Insanity:  +1 to Weapon/Armor (Max +3)
+
+Wings of a Dragon : +30 to Movement Speed.  Can Fly, as long as your turn ends on the ground. Permanent Attunement.
+
+Tome of Madness Requiem : Level 3 Spell, Range 150ft, 20ft area, make an INT Saving Throw, deals 6d8 Psychic Damage in area. Cast Higher than 3, +1d8 per level cast.
+
+Jaw Helm of Insanity : Once per day, use a Psychic Breath Weapon. 30ft Cone.  INT Save DC 18 (or yours, whichever is higher) 16d8 Psychic Damage.  Those behind cover have Advantage.  Half as much on a successful save. Attunement.
+
+Gauntlets of Insanity : Set Strength to 24.  Permanent Attunement.
+
+Glaive of Insanity +3 : 1d10 Slashing plus 1d8 Psychic
+
+Cauldron of Life : This Tiny pot bears relief scenes of heroes on its cast iron sides. When you finish a long rest, you can use the cauldron to create a potion of greater healing. The potion lasts for 24 hours, then loses its magic if not consumed.
+
+Dispelling Stone : This smooth, rainbow-colored, egg-shaped stone can be thrown up to 30 feet and explodes in a 10-foot-radius sphere of magical energy on impact, destroying the stone. Any active spell of 5th level or lower in the sphere ends.
+
+Ioun Stone of Vitality : You gain a +1 bonus to death saving throws while this luminous green-and-blue marbled sphere orbits your head. Attunement.
+
+Manual of Bodily Health : This book contains health and diet tips, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Constitution score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
+
+(Rare) Amulet of Madness :  At the end of every round of combat, gains an unstable counter.  When you have 3 Unstable counters, you gain access to the class feature Action Surge.  Using this feature resets your Unstable encounters to 0.
+
+Cluster of Insanity:  +1 to Weapon/Armor (Max +3)
+
+Cluster of Insanity:  +1 to Weapon/Armor (Max +3)

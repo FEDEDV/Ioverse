@@ -1,0 +1,92 @@
+
+8U-13-773
+HP : 122-188
+AC 17 Saving Proficiencies : None
+Prof : +2
+STR 17 DEX 11 CON 21 INT 5 WIS 5 CHA 5
+Condition Immunities : Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned.
+Damage Immunities : Poison
+Legendary Actions : 2
+Legendary Resistance : 1
+Senses : Darkvision 60ft, Tremorsense 60ft
+
+Features
+Siege Monster : 8U-13-773 deals double damage to objects and structures. Multiattack : 8U-13-773 is able to Stomp twice as an Attack Action. Brittle Armor : Every source of damage dealt to this creature reduces this creature's AC by 1 (Minimum 10). Unhinged Jaw : Every time this creature loses 15 HP, it gains access to Bite.  Phase 2 : As a legendary reaction, first time this creature has 66% or lower health, this creature burrows underground, gaining the following:
+
+Summons 3 Creatures, 8U-10, 8U-11, and 8U-12.
+Gains a Lair Action : Burrow Surge
+If 8U-10, 8U-11, and 8U-12 are defeated, OR 8U-13-773 is at 33% or lower health, 8U-13-773 unburrows.
+Remove access to all Legendary Actions.
+Phase 3 : As a legendary reaction, first time this creature has 33% or lower health, 8U-13-773 gains the following
+
+Regain access to all Legendary Actions (except whatever may have been disabled from Hacking)
++1 Legendary Resistance
++1 Legendary Action per Round
+Loses Lair Action : Burrow Surge
+Gains access to Legendary Action : Spine Spread
+Gain access to Attack : Driveby
+Multiattack becomes : This creature is able to use Stomp and Driveby as an Attack Action.
+OPTIONAL : This creature gains 8d6 Bonus Hit Points.
+Hacking : If you have access to a Shardhack Terminal (or any tool deemed suitable by your DM) - you may attempt to hack this creature if you are within 20ft (or melee range with other tools).  Make a Tool Check as an action (DC 12).  If successful, you reduce the total Legendary Actions per round by 1, and may disable a Legendary Action for the rest of the battle.
+
+Attacks
+Stomp : 5ft Melee Attack, +5 to hit, 1d8+3 Bludgeoning Damage
+Bite : (can only be used if access is given from Unhinged Jaw - can only be used once per round, and replaces 1 Stomp) : 5ft Melee Attack, +5 to hit, 2d12+3 Piercing Damage.
+Driveby : (can only use during Phase 3) 5ft Melee Range, 20ft area (10ft radius), Dex Save (DC 12), 1d8+3 Bludgeoning Damage on failure.
+Seismic Fin : (can only be used during the Lair Action : Burrow Surge) : 5ft Melee Attack, +5 to hit, 2d12+3 Bludgeoning Damage.
+
+Legendary Actions
+Spine Missile : 8U-13-773 attacks with 2 Spine Missiles. Ranged Attack (120ft) : 1d8 Piercing Damage on Hit. Do not suffer disadvantage while a creature is in melee range of 8U-13-773.
+Fortify Armor : 8U-13-773's AC increases by 2.  This effect Stacks (Maximum 20).
+Spine Spread (can only use during Phase 3) : 20ft Area, Dex Save (DC 12), 1d8 Piercing Damage on Failure.
+
+Lair Actions
+Burrow Surge (can only use during Phase 2) : On an Initiative of 20, the burrowed 8U-13-773 targets a creature.  On an Initiative of 0, 8U-13-773 moves 20ft burrowed towards that creature.  Any space moved through that has a player character is attacked with Seismic Fin. If the targeted creature would be within melee range, if 8U-13-773 wasn’t burrowed, it is also attacked with a Seismic Fin. This movement does not provoke Opportunity Attacks.
+
+How to play 8U-13-773 :
+Phase 1 : Move towards the nearest creature and Multiattack.  If in a melee range of 2 or more Player Characters (PCs), split up Stomps between different PCs. Use Bite whenever access is given.   Use the Legendary Action : Spine Missile at the end of the top initiative player’s turn at the farthest PC within range, and use the Legendary Action : Fortify Armor at the end of the bottom initiative player’s turn.
+
+Phase 2 : Burrow 8U-13-773 20ft down. The tunnel will fill itself back up upon their movement. Use Burrow Surge at the closest PC. Summon 8U-10, 8U-11, and 8U-12 within 30ft of 8U-13-773. Roll Initiative for 8U-10, 8U-11, 8U-12 (8U-Series).  8U-10 moves up to the nearest PC with Slam (remember the Taunting Slam Feature).  8U-11 as a bonus action uses Repair Command on the most injured of the 8U-Series, and then moves up and Slam a nearby PC. 8U-12 attacks with Spine Missile on the farthest PC within range. If the 8U-Series is destroyed (or removed from combat permanently in some way) - 8U-13-773 unburrows and repeat Phase 1 until Phase 3 is possible.
+
+Phase 3 : Move towards the nearest creature and Multiattack. Use Bite whenever access is given. Use the Legendary Action : Spine Spread after the end of the top most initiative PC’s round (Legendary Action : Spine Missile still takes priority, so if that is still active, use Legendary Action : Spine Spread at the end of the second top most initiative PC’s round).
+
+New Mechanic : Legendary Reaction
+A Legendary Reaction follows the same rules as Reactions - however - it can be used even if the creature has already taken a Reaction - and does not take away from the creature’s Reaction usage (allowing Reactions to be used after a Legendary Reaction is taken).  When applicable - a creature can take multiple Legendary Reactions in a round.
+
+Additional Creatures
+8U-10
+HP : 21 - 32
+AC 14
+Saving Proficiencies : None
+Prof : +2 STR 15 DEX 14 CON 13 INT 5 WIS 5 CHA 5
+Condition Immunities : Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned. Damage Immunities : Poison
+Senses : Darkvision 60ft, Tremorsense 60ft
+
+Features
+Taunting Slam : The first creature you hit with an attack on your turn, until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage of the target’s attacks.
+
+Actions
+Slam : Melee Range 5ft, +4 to Hit, 1d8+2 Bludgeoning Damage.
+
+8U-11
+HP : 16 - 25 AC 12
+Saving Proficiencies : None
+Prof : +2
+STR 15 DEX 14 CON 13 INT 5 WIS 5 CHA 5
+Condition Immunities : Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned. Damage Immunities : Poison
+Senses : Darkvision 60ft, Tremorsense 60ft
+
+Actions
+Repair Command : Bonus Action, 30ft Range, heals 1d4 HP to non-organic creatures.
+Slam : Melee Range 5ft, +4 to Hit, 1d8+2 Bludgeoning Damage.
+
+8U-12
+HP : 14 - 22
+AC 12
+Saving Proficiencies : None
+Prof : +2 STR 15 DEX 14 CON 13 INT 5 WIS 5 CHA 5
+Condition Immunities : Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned. Damage Immunities : Poison
+Senses : Darkvision 60ft, Tremorsense 60ft
+
+Actions
+Spine Missile : Range Attack 120ft , +4 to Hit, 1d8 Piercing Damage.

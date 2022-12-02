@@ -1,0 +1,45 @@
+Boss Battle : Vile
+
+HP : 1000
+
+AC : 17
+
+STR 19, DEX 16, CON 21, INT 16, WIS 19, CHA 19
+
+Saving Throws CON +9, WIS +8, CHA +8
+
+Speed : 30ft
+
+Traits
+
+Damage Immunities : Vile is immune to piercing, bludgeoning, and slashing damage that is from non magical sources.
+
+Condition Immunities : Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+
+Vile Heart : Somewhere on the battlefield is Vile’s Heart.  Vile’s Heart has 300 HP, AC 12, and has the same Saving Throws and Condition Immunities as Vile.   Once per turn, if Vile’s heart is dealt damage, Vile gains a Vulnerability Stack.  If Vile’s Heart is defeated, Vile enters HARD MODE - healing to full, and losing all Vulnerability Stacks.
+
+Phase 1 Turn
+
+Conjure Turn (25) : If Vile has 0 Shadow Tokens, Vile conjures 2 Shadow Claws. On every Conjure Turn after, Shadow Claws take their initiative on the Conjure Turn. If a Shadow Claw is defeated, Vile takes True Damage and gains a Vulnerability Stack. (Hard Mode : If Vile has 1 Shadow Token, Vile creates 1 Shadow Claw).
+
+Concentration Turn (15) : If Vile Heart is attacked, Vile must make a Concentration Check (DC 20). If Vile succeeds at the Concentration Check, or Vile Heart has not been attacked, Vile attacks with Beyond the Shadow. (Hard Mode : Heartless Vile attacks with Beyond the Shadow again.)
+
+Aggro Turn (5) :  Vile targets the last player character to attack them.  If Vile has not been attacked this turn, they will either target the player character with the lowest current hit points.  If Vile is targeting the last player character to attack them this turn, Vile attacks with two Grinning Saber attacks if it is Layton, otherwise he will attack with Smiling Demise.  Otherwise, Vile will attack with Smiling Demise. (Hard Mode : In addition, Vile also attacks with a Grinning Saber and Smiling Demise.  This does not follow Aggro Turn rules)
+
+Phase Turn (1) : Vile gathers the Shadow, gaining 1 Shadow Token.  If Vile has 1 Shadow Token at the end of the round, everyone’s vision shrinks to 30ft.  If Vile has 2 Shadow Tokens, everyone’s everyone’s vision shrinks to 5ft and enters Phase 2. (Hard Mode : Vile creates a Creeping Shadow creature.  This creature grows in size every Phase Turn.)
+
+Creatures
+
+Shadow Claws : 50HP, 10 AC, 30ft Speed.  STR 14, DEX 11, CON 10, INT 11, WIS 11, CHA 10  +2 to Athletics for Grapple.  Attacks with Claw (+5 to Hit, 1d8+2 Slashing Damage)
+
+Actions
+
+Grinning Saber +8 to Hit, 5d8+4 Slashing Damage.
+
+Beyond the Shadow Con Save DC 13, 2d10 Shadow Damage.
+
+Smiling Demise : Con Save DC 18, If Player Character is over half health, their hit points drop to 1.  Otherwise, they fall unconscious.
+
+Creeping Shadow : When a player character enters for the first time, or ends their turn in it, the player takes 4d8 Shadow Damage.
+
+Phase 2 : Everyone’s Darkvision drops to 5ft, as Vile Heart is hidden somewhere on the map.  As players move around and end their turn, inform them whether they are ‘hot’ or ‘cold’ in a descriptive manner.  This hints if they have gone farther away or closer to the Heart.  Only tell them at the end of their turn.  During the first round, nothing happens.  Every round after that, each player will lose 5% of their health, increasing.  So Round 3 is 10%, Round 4 is 20%, etc.  These numbers can be variable depending on the pressure you’d like to give.  Once the Heart is found and attacked, Phase 1 Resumes with Vile gaining a Vulnerability Stack.

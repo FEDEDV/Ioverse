@@ -1,0 +1,114 @@
+Weyzi of the Blackstar
+Act 1
+HP : 888
+
+AC : 17
+
+Level 11
+
+STR: 25, DEX 17, CON 23, INT 17, WIS 14, CHA 14
+Saving Throws: STR, CON
+
+Speed : 40ft
+
+Traits
+
+Blackstar Surge : Once per initiative round, at the end of one of Weyzi’s turns, Weyzi can repeat her turn.
+
+Blackstar Durability : Weyzi adds 1d6 to all Saving Throws.
+
+Blackstar Indomitability : Weyzi is able to reroll the first saving throw she fails per round.
+
+Honorable Brutality : When Weyzi downs a creature, she turns her attention to other combatants.  If a creature becomes stable during the fight, Weyzi returns her attention to that creature, attacking with brutality until they are dead - this means attacking them while downed.
+
+Bloodbath : Every time Weyzi takes damage, she gains 1 Rage.  If Weyzi is at 10 Rage, her next Sharpened Battleaxe of Varri’mathas automatically rolls a 20.  This drops Weyzi’s rage back to 0.
+
+Tauntable : Weyzi prioritizes her target creature with the “Taunted” condition, if the creature is within reach.
+
+Condition Superiority : If Weyzi is conscious, she is able to end any ongoing Condition at the top of the round.  If she does, she gains 1 Rage.
+
+Combat Interruption : If Weyzi is below 444 HP, Act 2 Begins with a Hidden Execution Turn.
+
+Turns
+
+Action Turn (18) : Weyzi moves up to her movement, attacking twice with Sharpened Battleaxe of Varri’mathas.  Weyzi makes a Grapple Attempt (Athletics).  If she succeeds, she throws her target 30ft.  Weyzi is able to move half her movement speed toward the failed grapple creature.
+
+Move Turn (12) : Weyzi moves up to her movement speed twice in a line, attacking with Sharpened Battleaxe of Varri’mathas to all creatures she crosses through.  This does not provoke attacks of opportunity.  Weyzi gains 1 Rage for each creature she attacks this round.
+
+Enhance Turn (6) : Weyzi heals for 1d10+11 health and gains 1d4 Rage.
+
+Phase Turn (1) : Until the end of the next Phase Turn, Weyzi gains the following.  At the end of an opposing creature’s turn, Weyzi shifts over to the creature with a leaping motion, attacking with the Sharpened Battleaxe of Varri’mathas.  Any creature within 15ft of Weyzi other than the initial creature is attacked with Unstoppable Force.  Weyzi gains 1 Rage for each creature targeted with Unstoppable Force.  Weyzi takes no other actions until the end of the Phase Turn.
+
+Actions
+
+Sharpened Battleaxe of Varri’mathas : 15 Magical Slashing Plus 1d6 True Damage.  On Crit, 23 Magic Slashing Damage Plus 6d6 True Damage.  Roll a 1d20 - if a 20 is Rolled, the target loses a limb of the DM’s choice.
+
+Unstoppable Force : Make a Dexterity Saving Throw.  On Failure, take 6d6 True Damage and be knocked prone.  On Success, take half damage.
+
+Final Blow : 39 Magic Slashing Damage Plus 16d6 True Damage.  Roll a 1d10 - if a 20 is Rolled, the target loses a limb of the DM’s Choice.  The Sharpened Battleaxe of Varri’mathas is destroyed.
+
+Act 2
+Weyzi, The Matriarch
+
+HP: 444
+
+AC : 15
+
+Level 11
+
+STR: 25, DEX 17, CON 23, INT 17, WIS 14, CHA 14
+
+Speed : 60ft
+
+Action Turn (18) : Weyzi moves up to her movement, attacking four times with Brundrin Arts.  Weyzi makes a Grapple Attempt (Athletics). Weyzi is able to replace one of her attacks with a Stunning Strike.
+
+Stunning Strike : Succeed at a CON saving throw or be stunned.
+Move Turn (12) : Weyzi shifts up to double her movement speed with a leaping strike to a target creature.  That creature gets hit with Brundrin Arts.  All creatures with 20ft get hit with Brundin Force.
+
+Extraordinary Turn (6)  : Weyzi creates a 30ft Line by 5 Feet Wide (or 20ft Cone) of an Acid Breath Weapon - a memory of the Green Dragon Brundin.
+
+Phase Turn (1) : Until the end of the next Phase Turn, Weyzi gains the following.  Weyzi channels the energy of her Radiant Blood.  A Magical Aura emanates from her from a 30ft radius.  At the end of the next Phase Turn, those within the Aura are dealt 24d6 Radiant Damage.  This cannot be saved.  Until then, any time she is inflicted damage, the Aura increases its radius by 10ft, and deals 3d6 Less damage.  This cannot lower the damage by 3d6.  If there are no creatures in the aura at the end of the Phase Turn, Weyzi gains an additional use of Action Surge per round for the remainder of the battle.
+
+Actions
+
+Brundrin Arts : 1d8+6 Acid Damage.
+
+Brundrin Force : Make a Dexterity Saving Throw.  On Failure, take 6d6 Acid Damage and be knocked prone.
+
+Intermission
+Weyzi, The Decrepit
+
+HP: 222
+
+AC : 15
+
+Level 11
+
+STR: 25, DEX 17, CON 23, INT 17, WIS 14, CHA 14
+
+Speed : 20ft
+
+Turns
+
+Action Turn (18) : Weyzi moves up to her movement, attacking twice with Brundrin Arts at disadvantage.
+
+Move Turn (12) : Weyzi shifts up to double her movement speed with a leaping strike to a target creature.  That creature gets hit with Brundrin Arts.   All creatures with 10ft get hit with Brundin Force.  Creatures have advantage on their saves against this.
+
+Extraordinary Turn (6)  : Weyzi creates a 15ft Line by 5 Feet Wide (or 10ft Cone) of an Acid Breath Weapon - a memory of the Green Dragon Brundin.  Creatures have advantage on their saives against this.
+
+Debilitate Turn (1) : Weyzi coughs up blood.  She suffers 4d6 True Damage.
+
+Act 3
+Weyzi, The Immortal
+
+HP: 111
+
+AC : 15
+
+Level 11
+
+STR: 25, DEX 17, CON 23, INT 17, WIS 14, CHA 14
+
+Speed : 0ft
+
+Execution Turn (Aftermath) : At the end of every round, Blackstar Energy explodes out of Weyzi.  Everyone in a 30ft radius must succeed on a CON Saving Throw or be dealt 1d6 True Damage. This increases by 1d6 True Damage and 10ft radius every round. Damage caps at 40d6 True Damage, and Radius Caps at 1,200 Miles - enough to encapsulate all of Io.

@@ -1,0 +1,58 @@
+HP : 1,000
+
+AC : 20
+
+STR 20, DEX 20, CON 20, INT 20, WIS 20, CHA 20
+
+Saves : +10
+
+Traits
+
+Condition Immunities : charmed, exhaustion, frightened, poisoned
+
+Vulnerabilities : The first source of void Damage per round dealt to DIV adds a Vulnerability Stack to DIV.  The first source of radiant damage per round dealt to VOID adds a Vulnerability Stack to VOID.
+
+Condition Superiority : At an initiative of 30, DIV and VOID are able to end any ongoing condition effects they are under.
+
+Birthing Process : The rebirth of DIV and VOID was initiated by the user “The Boy”.  This rejuvenation process has taken an allotment of time that translates to an IRL Time of 1 Year. This process was initiated on October 24th, 2020.  DIV and VOID’s stats are equal to the following multiplied per month of rejuvenation. (Currently : 10)
+
++100 HP
++1 to AC, Base 10.
++1 to all Saving Throws
++1 to all Attack Rolls
++1 Bonus Damage
++1 to DCs, Base 8.
+If a complete IRL year has passed, these bonuses are doubled.
+
+Health Link : DIV and VOID share the same health pool.
+
+Variable Vulnerability : Vulnerability stacks can be spent in alternate ways - you can lower the target’s saves, AC, DCs, Attack Bonus, or Damage Bonus by 1 per Vulnerability stack spent, permanently to a maximum penalty of half the total bonus (-5).
+
+Ascended Reality : Banishment works differently on DIV and VOID. While maintaining concentration, instead of being sent to a different plane of existence, Banishment instead lowers the target’s saves, AC, DCs, Attack Bonus, and Damage Bonus by half of the bonus (5).
+
+Champion’s Call  : VOID is susceptible to Champion’s Challenge, suffering a disadvantage against saves.  If under the effect of Champion’s Call - VOID’s Attacks are directed to the one who has issued the Call.  During Champion’s Call, if all attacks do not connect with AC, VOID gains a Vulnerability Stack.
+
+Battlefield Superiority : DIV and VOID are able to target anywhere on the battlefield with any action.
+
+Turns
+
+Execution Turn (Interrupt) : At 200 Health, DIV and VOID cast Astral Revelations.  Choose Four Player Characters.  Two must lower to half HP, while two lower to 1 HP.  If you are unable to do so, all Player Characters drop to 1 HP.  You may increase the number of targets for Half Health, or 1 HP Drops.  If an additional character drops to half health, DIV or VOID gain 1 Vulnerability Stack.  If an additional character drops to 1 HP, DIV or VOID gain 2 Vulnerability Stacks.
+
+Phase Turn (25)  : At the beginning of the phase turn, The Battlefield gains a DIV counter if a DIV phase wasn’t the recent Phase, or a VOID counter if a DIV Phase was the recent phase.  At the end of the Phase Turn, if the Battlefield has 3 DIV Counters, it enters the DIV Phase, or if the Battlefield has 3 VOID counters, it enters the VOID Phase.  During DIV and VOID Phases, Spellcasters may take 1d8 True Damage to restore 1 Spell Level Slot.  They can take additional True Damage to restore stronger spell slots, or additional spell slots.
+
+DIV Phase : The Battlefield becomes attuned to DIV.  As the Radiant Sun Rises into the sky, it’s searing light bathes over all impure.  On an Initiative of 0 this Round, a sickening radiant light bathes over the battlefield.  Those touched by it’s light must succeed a DC 18 Constitution Saving Throw.  On a failed save, the targets are dealt 10d10 Radiant Damage, or half on a successful save.  Creatures who are 5ft behind another creature are protected, and are not touched by the light.
+VOID Phase : At the end of each Player Character’s round, Void Cross goes off on the player, with a 10ft radius Void Storm Centered at the player character. If a Void Storm overlaps with another Void Storm then Armageddon goes off in a 40ft radius, centered at the newly intercepting Altered Void Storm.  Altered Void Storms stay on the battlefield for the remainder of the encounter, and can only be removed by Dispel Magic.
+Void Storm : No damage is dealt when first cast upon a target. When a creature enters for the first time, or ends their turn in this area. DC 18 Dexterity Saving Throw.  6d8 Void Damage.
+Void Cross : DC 18 Dexterity Saving Throw, Save for Half.  10d8 Void Damage.
+Armageddon : DC 18 Dexterity Saving Throw, Save for Half.  12d8 True Damage.
+DIV Concentration Turn (20) : DIV, as an extraordinary ability, creates a Sickening Radiance on the battlefield.  DIV can maintain 3 Sickening Radiances.  If DIV took VOID damage in the previous round, it must make a concentration check equal to half of the highest VOID damage source.  If it fails, all Sickening Radiances end, and add a Vulnerability Stack.
+
+VOID Attack Turn (15) : VOID attacks with 4 Blades of Void, targeting anyone on the battlefield.
+
+Blade of Void, +10 to Hit, 3d8+10 Void and Slashing Damage.  If you are Immune to Void or Slashing, this deals Half Damage.  You must be Immune to both Damage Types to Take No Damage.  Resistances do not lower damage sources.
+DIV Spell Turn (10) : DIV casts a Spell.  If attacked with a Mage Slayer Attack of Opportunity, this adds a Vulnerability Stack.
+
+Disintegrate : Dexterity Saving Throw DC 18. On a failed save, the target takes 10d6+50 Force Damage.
+Circle of Radiance : Con Saving Throw DC 18.  60ft Area. Target takes 8d6 radiant damage.
+Sunbeam : Con Saving Throw DC 18. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn.
+VOID Resotation Turn (1) : VOID, as an extraordinary ability, consumes a target creature, object, or magical effect’s spell.  This functions as Dispel Magic cast as an 8th Level spell. Spells consumed this way heals VOID for 50 HP.  If VOID has no magical effects to consume, it adds a Vulnerability Stack.

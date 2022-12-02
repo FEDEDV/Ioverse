@@ -1,0 +1,77 @@
+Juiblex Dracolich
+
+HP : 1231 (Same as Juiblex)
+
+AC: 19
+
+SPD: None
+
+STR 25, DEX 12, CON 21, INT 18, WIS 15, CHA 17
+
+Saving Throws: Dex, Con, Wis, Cha
+
+Senses : Blindsight 60ft, Darkvision 120ft
+
+Skills: Deception, Insight, Perception, Persuasion, Stealth
+
+Traits
+
+Damage Immunities : Poison, Void
+
+Damage Vulnerabilities : First source of Radiant Damage this round adds a Vulnerability
+
+Stack.  First source of Fire Damage this round adds a Vulnerability Stack.
+
+Condition Immunities : Poisoned
+
+Condition Superiority : Juiblex can end 5 ongoing conditions or magical effects targeted on them at the top of the round.
+
+Legendary Resistance : If Juiblex fails a saving throw, it can choose to succeed it instead once per round, if it has not taken Radiant or Fire damage this round.
+
+Acid : Any contact made with Juiblex Dracolich deals 4d8 Acid Damage. Any attacks that deal contact inflict an additional 4d8 Acid Damage.
+
+Bells of Doom : Juiblex’s bells are now targetable.  It has 40HP and an AC of 10.  Dropping the Bells HP to 0 adds a Vulnerability Stack.
+
+Maneuver: Beckon : As a reaction, choose an ally creature.  They may move up to their movement speed towards you.
+
+Targets
+
+All targets share the same stats as Juiblex Dracolich unless specified. Targets share Vulnerability Stacks with Juiblex Dracolich, and are part of Juiblex Dracolich. You cannot hit multiple targets with one damage source.
+
+Claws : 50HP, AC 15.  At the end of the round, all targets within a 15ft wide by 150ft length line are targeted with Juiblex Shockwave.  Claws attack in a cardinal direction in the direction that has the widest length.  The Claw is removed from the battlefield.
+
+Bells of Doom : 66HP, AC 12.  Dropping the Bells HP to 0 adds a Vulnerability Stack.  At the end of the round, Bells of Doom attack with Toll of Execution.When Defeated, Toll of Execution DC resets.
+
+Shadow Pod : 40 HP, AC 10.  For every 10 feet a player character moves, the Shadow Pod’s area of effect is increased by 5 feet. At the end of the round, All creatures in the area of effect are targeted with Shadow Explosion. If the Shadow Pod drops to 0 HP, divide the area of effect in half.  Those that are in the greater half are targeted by Shadow Burst. (Example: If the area of Effect is 40 feet, those that are within the 25-40ft area of effect are targeted with Shadow Burst [0-20ft is safe]).  After Shadow Explosion, Shadow Pod is removed from the battlefield.
+
+Tail : 150 HP.  At the end of the round, the tail attacks all targets in a 30ft cone with Tail Attack. Defeating the tail adds 2 Vulnerability Stacks to Juiblex Dragon.
+
+Dragon Head : 225 HP.   At the end of the round, the head attacks a target within a 20ft radius with Bite.  If Juiblex Dracolich has 4 Charges Counter, Dragon Head also attacks with Poison Breath within a 30ft area.  Juiblex Dracolich resets their Charges, and advances the battle a Phase.
+
+Aria Spawn :   16 HP, AC 12. At initiative,  Attacks with Horrific Visage to a creature within 120ft. If the phase Advances, Aria Spawns create a 20ft Radius.  Those in the radius are hit with Shadow Burst - and Aria Spawns are removed from the battlefield.
+
+Juiblex Heart : 1231 HP, AC 16, Regeneration 20.  Every source of damage dealt to Juiblex Heart adds 1 Debilitate Counter (max 8). Every Debilitate Counter lowers Juiblex’s Attack Rolls, Saving Throws, DCs, Saving throws by 1.  At the top of the round, Juiblex Heart removes 1 Debilitate Counter.
+
+Turns
+
+Phase Turn (30) : Juiblex Dracolich gains a Charge Counter.  Juiblex spawns x Shadow Pod(s) and x Claw(s). If there is now Bells of Doom, Juiblex spawns a Bells of Doom, resetting the DC of Toll of Execution. If there is no Head or Tail, 4 Shadow Ruptures appear along the wall. The DM secretly chooses three ruptures where the Tail, Dragon Head, and Juiblex Heart are hiding. A Scan on a Rupture will reveal if a Tail, Dragon Head, Juiblex Heart, or nothing is hiding.  At the end of the round, the Tail, the Dragon Head appear from hiding, with their attacks going off, and the Juiblex Heart appears from hiding.
+
+Conjure Turn (15) : If it is Phase 2 or above, and there are no Aria Spawns on the battlefield, Juiblex Dracolich creates X Aria Spawns.
+
+X = Phase Number
+
+Attacks
+
+Juiblex Shockwave, Dex Save, 10d8 Force Damage, Save for Half Damage.
+
+Toll of Execution, CHA Save DC 5. 8d6 True Damage. DC Increase by 5 Every Round.  If Bells are Defeated, Save Resets when respawned.
+
+Shadow Explosion, Dex Save, 8d6 Shadow Damage.
+
+Shadow Burst, Dex Save, 4d6 Shadow Damage.
+
+Horrific Visage, 60ft Range, To Hit, 1d8 Necrotic, 1d10 Fire, 2d8 Poison.
+
+Tail Attack : To Hit, 2d8+6 Bludgeoning Damage.
+
+Poison Breath Weapon Con Save, 16d6 Poison Damage, 30ft area.  Save for Half.

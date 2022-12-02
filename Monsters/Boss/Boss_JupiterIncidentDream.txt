@@ -1,0 +1,63 @@
+Jupiter Incident's Dream
+
+HP : 500
+
+AC : 15
+
+Atk : +4
+
+DCs : 16
+
+Saves : STR +4, DEX +4, CON +4, INT +8, WIS +8, CHA +4
+
+Athletics +8
+
+Maneuvers
+
+For this fight, you may unlock maneuvers that will assist you in combat against the enemy.  By scanning a Maneuver, you teach 1 Party Member that maneuver for the duration of the combat.  A maneuver can be learned once, and a party member may only gain one maneuver. You may exchange maneuvers - if you do so, you may bestow the exchanged maneuver to another party member that has not learned a maneuver.
+
+Parry : As a reaction, you gain +4 AC against the triggering attack. If this increase to AC would turn a successful hit into a failed hit, the enemy gains 1 Vulnerability Stack.
+
+Suplex : If you have an enemy pinned from the Grappler feat, you may end the grapple by suplexing the target to the ground.  You may leave the creature prone or not, and the creature gains 1 Vulnerability stack.
+
+Brainfreeze : If you cast a spell that deals Psychic Damage, instead of dealing damage, you may inflict 1 Vulnerability stack.
+
+Overshield : Half of any overhealing (healing over max HP) becomes temporary hit points for the target until the end of your next round.
+
+Charge: As a reaction, you gain 1 Charge Stack. Before you attack, you may spend a Charge Stack.  If your attack is successful, your Damage is Doubled.
+
+Traits
+
+Condition Immunities : Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned.
+
+Alternate Vulnerability : You may spend as many vulnerability stacks you want before your attack.  This increases the damage by 2x, 3x, 4x, etc respectively.
+
+Damage Capped : This creature’s health cannot be lowered below to a number divisible by 100 (500, 400, 300, 200, 100).  Once this creature’s hit points equal to a number divisible by 100, they take damage normally again.
+
+Auroran Combat Maneuvers : If Lagos attacks with a melee attack, he is able to move as if he disengaged from the enemy.
+
+Turns
+
+Phase Turn (Interrupt) : When Lagos’s HP is divisible by 100, the dream continues to manifest visions of Lagos, Emissary of the End, gaining new turns every 100 HP lost.
+
+Phar Turn (Ongoing) :  From an unknown location, known as the “Deadspace” - the future of Khasma Phar remains lost.  But he will return - threatening the fate of our galaxy.  At the end of each player character’s turns, they drop fragments of the Deadspace in a 5ft area.  If two fragments of Deadspace overlap, Deadspace Tear  goes off in the intersecting space in a 30ft area.  This erases the overlapping Fragments of Deadspace. Lagos is immune to this effect.
+
+Kaasma Turn (Ongoing) : The corpse of a dead god, said to have once witnessed the creation of the universe.  Once said to be worshiped as various deities in old Auroran Religions.  However even in death, Kaasma’s power is still present.  Even though the corpse of a god - are they still alive.  At the end of each player character’s turn, their hit points are lowered by half of their current hit points.
+
+Khara Turn (30) : A vision of this planet’s future.  Kaasma Khara calls forth a meteor on a location against a wall.  A 15ft radius meteor is conjured - On an Initiative of 1, the meteor collides.  Anyone in the area must succeed at a Dexterity Saving Throw DC 24.  A creature takes 20d6 fire damage and 20d6 Bludgeoning damage on a failed saving throw, or half as much damage on a successful one.  Lagos is immune to this effect.
+
+Thara Turn (20) : Kaasma Thara, sealed away in Shadows, brings forth madness. The party chooses a player character.  If a player character chooses to be the target of confusion again, they must roll at a disadvantage.  That player character must succeed on a Wisdom Saving Throw DC 16 or be affected by the spell Confusion. At the end of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this Effect ends for that target.
+
+Lagos Turn (10) : Lagos takes a Full Round of actions.  Lagos attacks 3 times.
+
+Actions
+
+Lagos
+
+Laser Saber : +8 to hit. 3d6+4 Radiant Damage.
+
+Auroran Laser Pistol : +8 to hit, 3d12 Radiant Damage.
+
+Phar
+
+Deadspace Tear : 30ft area, CON Saving Throw.  12d6 True Damage, Save for Half Damage.

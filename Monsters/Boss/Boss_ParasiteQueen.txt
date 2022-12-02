@@ -1,0 +1,69 @@
+Boss : Bardic Parasite Queen
+
+HP : 523
+
+AC : 16
+
+STR 16, DEX 14, CON 20, INT 20, WIS 16, CHA 14
+
+Saves : STR +7, CON +9
+
+Traits
+
+Damage Resistances : Resistant to all Slashing Weapons.
+
+Condition Immunities : Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+
+Immutable Form : This creature cannot be Polymorphed.
+
+Exposed Hide : Exposed Hide can be targeted at AC 19. Exposed Hide has no damage resistances, and damage dealt to the Hide is dealt to the Bardic Parasite Queen.
+
+Tauntable : As a bonus action, a creature may Taunt the Bardic Parasite Queen.  They become the target of the Tankbuster Turn until the end of their next round.
+
+Parasite Slug (Need to learn Debilitate Turn or have the Debilitate Turn happen) : The Parasite Slug becomes active.  Parasite Slug has the same Hit Points as the Host.  Parasite Slug’s hit points is Half of the Host.  Any damage dealt to the Parasite Slug is also dealt to the host as true damage, rounded down.
+
+Calluses (Need to learn Battlefield Turn, or have the Battlefield Turn) : Bardic Parasite Queen Calluses share the same HP as Bardic Parasite Queen.  They have an AC of 25.  If a Callus is hit with Parasitic Surge - it stops the Parasitic Surge line, destroying the Callus.  Bardic Parasite Queen is dealt True Damage.
+
+Actions
+
+Minion Turn (Aftermath) : At the end of each player’s turn, Parasite Tentacles move up to 5ft in any direction.  If they end their turn in a creature’s square, they may attack with Parasitic Drain.
+
+Action Turn (20) : Parasite Queen attacks with 3 Parasitic Slashers if an enemy creature is in Melee Range or 2 Acid Spit.
+
+Tankbuster Turn (15) : Bardic Parasite Queen attacks with Parasitic Surge towards the player with the most current HP, or if a creature has the “Taunt” Ailment.
+
+Battlefield Turn (10) : At the beginning of the Battlefield Turn - if Parasitic Rupture circles are on the battlefield, all creatures in those Ruptures are attacked with Parasitic Surge.  The rupture circles become Bardic Parasite Queen Calluses (When this is Scanned, or when this first happens, Callus Trait becomes Scannable)). At the end of Bardic Parasite Queen creates Parasitic Bursts in a 10ft radius around all player characters.
+
+Debilitate Turn (5) : Those infected with the Parasite Slugs must make a Con Saving Throw (DC 17) or take 6d6 True Damage.  (Parasite Slug Trait now Scannable).
+
+Conjure Turn (1) : Bardic Parasite Queen creates 1 Parasite Tentacle.  It must be 30ft away from every Player Character.  Parasite Tentacle has 40 HP, a Move speed of 5ft, and can attack with Parasitic Drain.  Parasite Tentacles can share spaces with enemy combatants.
+
+Attacks
+
+Parasitic Drain : At the end of the round, the creature the Parasitic Tentacle is sharing a space with must succeed at a CON Saving throw DC 17 or be dealt 3d6 True Damage, or half on a Successful Save.  Damage dealt from this heals Bardic Parasite Queen.
+
+Parasitic Slasher : Melee Range, +9 to hit, 4d6+3 Slashing Damage.
+
+Acid Spit: Range 120ft, +9 to hit, 7d8 Acid Damage in a line.
+
+Parasitic Surge Line 500ft, DEX Save DC 17, 11d8 piercing damage.
+
+Parasitic Burst : DEX Save DC 17, 9d6 piercing damage, half on successful save.
+
+Drops
+
+Ishtar Dae Crystal Cluster: +1 to Weapon/Armor (Cap +3).
+
+Subdued Parasite : Set Base Charisma to 24. Permanent Attuned. 2 Slots
+
+Parasite Hide +3 : +3 Studded Leather Armor, Resistance to Slashing.
+
+Crystalized Parasite : +3 Dagger, Once per day, you may have damage dealt with 1 Attack heal you for the damage dealt.  This can be determined after you deal damage.
+
+Parasitic Callace : Your Natural AC becomes 16.  Your body becomes Callaced.  This does not stack with normal Armor.  Permanent Attuned.
+
+Tome of Parasitic Surge : 6th Level Spell, 15ft by 150ft line. Dexterity Save.  On Fail, deals 10d10 Piercing Damage.  When you cast this spell using a spell slot of 7th level or higher, +2d10 Piercing Damage.
+
+Ultra Rare: Parasite Tentacle - Once per day creates a Parasite Tentacle.  This has 5HP per your Level and an AC equal to your AC - 10.  At the end of your turn, the Parasite Tentacle moves up to your movement speed to an area of your choice.  It can occupy an enemy combatant’s space. At the beginning of a creature that shares a space with the tentacle’s round, make a CON Save DC 15 (or your Spell Save DC whichever is higher).  On Failure, it deals 3d8 True damage, healing you for the damage dealt.  If defeated, you can create another one after the next dawn.
+
+Ishtar Dae Crystal Cluster: +1 to Weapon/Armor (Cap +3).

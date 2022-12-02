@@ -1,0 +1,35 @@
+Sholo the Shadow
+
+HP : 465
+
+AC : 15
+
+STR 14 DEX 12 CON 11 INT 18 WIS 16 CHA 14
+
+Saving Throw : Int +8, Wis +7
+
+Damage Immunities : Psychic Damage.
+
+Damage Vulnerability : The first source of Force Damage each round adds a Vulnerability Stack. The first source of Radiant Damage each round adds a Vulnerability Stack.
+
+Condition Immunities  :  Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+
+Mental Wounds : Sholo can be targeted by healing spells and effects.  Instead of healing for HP, every 5 health restores removes 1 Unstable Charge.
+
+Spiritual String: Sholo has a Spiritual String attached to Captain Armstrong.  This string can only be targeted by magic spells.  The Spirit String has 75 HP, an AC of 18, and can make saves using Sholo’s saves at a disadvantage.  If the Spiritual String is severed, Sholo is unable to take their Debilitate Turn.
+
+Unstable Fear : Every time Sholo is damaged - it gains 1 Unstable Charge.
+
+Phase Turn (25) : Sholo gains an Unstable Charge.  If under 200 Health, it gains an additional Unstable Charge.  If under 100 Health, it gains an additional Unstable Charge.
+
+Debilitate Turn (20)  Captain Armstrong’s physical form is attached to Sholo the Shadow by a spiritual string.  Starting at Round 3 and every 3 rounds after that (6, 9, etc), Sholo is able to enervate the spiritual string.  Armstrong must make a Constitution Saving Throw (DC 25) or be dropped to 0 HP.  If Armstrong is already unconscious, instead of making a Con Saving Throw, Armstrong suffers a Failed Death Saving Throw.  If this would kill Armstrong, Sholo takes over the body of Captain Armstrong - ending the encounter.
+
+Move Turn (15) : Sholo moves up to double its movement speed in a line.  Any character’s threatened space it enters and leaves through during this turn does not provoke an attack of opportunity.  If it leaves a threatened space, but did not enter it this round, this does provoke attacks of opportunities.  If this attack of opportunity is from the Sentinel Feat, the Move Turn does not happen, and Sholo gains a Vulnerability Stack.  Every character’s threatened space that is left is attacked with Shifting Requiem
+
+Action Turn (10) : Sholo moves up to half its movement speed and attacks three times with Claws of Madness.
+
+Execution Turn (1) : If Sholo has at least 8 unstable charges - a horrific nightmare to the closest target not within 5 ft of it. That target becomes the center of a 10ft radius area of effect.  All targets in this area must succeed at an INT Save DC 16 or take 3d6 Psychic damage per charge.  The damage is divided by all player characters in the radius.
+
+Claws of Madness : +8 to Hit, 3d8+4 Psychic Damage.
+
+Shifting Requiem : +8 to Hit, 5d8+4 Psychic Damage.

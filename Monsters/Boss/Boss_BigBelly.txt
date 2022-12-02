@@ -1,0 +1,63 @@
+Chief Big Belly
+
+HP : 100
+
+AC: 14
+
+STR 19, DEX 8, CON 18, INT 10, WIS 13, CHA 12
+
+Saving Throws: STR, CON
+
+Prof. used in this battle : +4 (Level 12)
+
+Traits
+
+Condition Superiority : While conscious, at the top of the round, any ongoing effect that requires a save, or a Condition, can be ended.
+
+Vulnerability : First source of Fire Damage Dealt to Chief Big Belly adds a Vulnerability Stack.
+
+Unstable : Chief Big Belly can gain Unstable Stacks.  Every Unstable stack Chief Big Belly gains To Hit by 1, DCs by 1, and Damage by 1.  Unstable Stacks can be used as Vulnerability Stacks. When spent this way, Chief Big Belly gains Stable Stacks.  Every time Chief Big Belly’s HP is lowered to 0, Chief Big Belly returns with 2 Unstable Stacks.  If Chief Big Belly has a combination of 6 Unstable/Stable Stacks and is dropped to 0 HP, Chief Big Belly Dies.
+
+Stable : Chief Big Belly can gain Stable Stacks.  Every Stable stack Chief Big Belly gains To Hit by 2, DCs by 2, and Damage by 2.
+
+Tuantable : Chief Big Belly focuses his attacks on those with the “Taunted” condition.
+
+Turns
+
+Move Turn (18) : Chief Big Belly Moves up to his movement turn.  Those 10 Feet away from him during his movement get hit with Tidal Mud.
+
+Action Turn (12) : Chief Big Belly attacks with 2 Body Slams.  If there is nobody in melee, Chief Big Belly instead attacks with Mud Ball.
+
+Spellcasting Turn (6) : Big Belly casts Mud Rush.
+
+Actions
+
+Tidal Mud : To Hit.  3d6 Bludgeoning Damage.
+
+Body Slam : To Hit.  4d8 + STR Bludgeoning Damage.
+
+Mud Ball : DEX DC.  8d6 Bludgeoning Damage.
+
+Mud Rush : DEX DC.  90ftxToken Size Line.  5d12 Bludgeoning Damage.
+
+Phase 2
+
+2 Chief Big Bellies with 2 Unstable Stacks.
+
+Phase 3
+
+Chief Big Belly with 4 Unstable Stacks.  Chief Big Belly becomes 20x20
+
+Phase 4
+
+Chief Big Belly with 6 Unstable Stacks.  Chief Big Belly becomes 40x40 with new turns.
+
+Action Turn (20) : Chief Big Belly attacks with Big Body Slam.
+
+Concentration Turn (10) : Chief Big Belly Casts 1 Mud Ball.
+
+Execution Turn (1) : Chief Big Belly submerges with Tidal Body Slam - attacking in a line either to the east or west of him with a 500ft length x Token Size Width. He emerges in a different location on the map.
+
+Big Body Slam : To Hit.  8d12 + STR Bludgeoning Damage.
+
+Big Belly Cannonball : DEX DC.  24d8 Bludgeoning Damage.  Save for Half.

@@ -1,0 +1,63 @@
+Prexes, Pride of Flame
+Medium Leomhan Humanoid
+
+HP : 44 - 66
+AC : 11
+Saving Proficiencies : None
+Prof : +2
+STR 18 DEX 13 CON 14 INT 12 WIS 10 CHA 8
+Condition Immunities : None
+Damage Immunities : None
+Legendary Actions : 1
+Legendary Resistance : 1
+Senses : Darkvision 60ft
+
+Features
+Shadow Boxer : For every 50 Temporary Hit Points this creature loses - create 1 Shadow Boxer.  If Prexes has no Temporary Hit Points remaining, create 2 Shadow Boxers.
+
+Fire Preparation : For every 30 Hit Points (Temporary or otherwise) this creature loses, it gains access to Breath of Fire
+
+Bleed Stacks : This creature is capable of inflicting Bleed Stacks. When a creature has at least 2 Bleed Stacks, after Prexes Inflicts Damage, this creature may choose to spend all Bleed Stacks dealing 2d6 True Damage.  If this was spent after a Critical Hit was dealt, the Damage is also treated as a Critical Hit.  If the creature with Bleed Stacks is healed in any way, the Bleed Stacks are removed.
+
+Actions
+Multiattack : This creature attacks with Claws of Pride twice as an action.  This creature can replace any Claw of Pride attacks with Fire Bolt or Thunderclap.
+
+Legendary Reactions
+Experimental Zeon Stimulant III : As a Legendary Reaction (does not take from normal Reaction Pools), at the start of combat, this creature takes a combination of a Zeon Stimulant III and a Zeon Antibiotic.  This creature gains the following : 66-99 Temporary Hit Points (dependent on DM), Size Category becomes Large, Strength becomes 25. When this creature loses all Temporary HIt Points, all effects granted by this feature are removed.
+
+Legendary Actions
+Legendary Action : Pride of Flame  : As a Legendary Action, this creature may either attack once with Claw of Pride or cast Fire Bolt.
+
+Attacks
+Claw of Pride : Melee Range (5ft), +6 to Hit. 1d8+4 Slashing Damage. On successful hit deal 1 Bleed stack if the target is organic.
+
+Fire Bolt : 120ft Range Spell Attack, +3 to Hit.  1d10 Fire Damage.
+
+Thunderclap : Range: Self, Area 5ft Radius, CON Save : DC 11.  On Fail : 1d6 Thunder Damage.
+
+Breath of Fire : Range: Self,  Area 15ft Cone.  DEX Save: DC 11. On Failure : 3d8 Fire Damage.  On Success : Half Damage.
+
+Additional Creatures
+Shadow Boxer
+
+HP : 24-32
+AC 12
+Saving Proficiencies : None
+Prof : +2
+STR 15 DEX 14 CON 13 INT 12 WIS 10 CHA 8
+Condition Immunities : None
+Damage Immunities : None
+Senses : Blindsense 60ft
+
+Actions:
+
+Claw of Pride : Melee Range (5ft), +5 to Hit. 1d8+4 Slashing Damage. On successful hit deal 1 Bleed stack if the target is organic.
+
+Loot (Choose 1-3 : DM Choice)
+Claws of Prexes : Simple Weapon, 1d4 Slashing Damage. Properties: Pugilist - Can be used as a Monk Weapon.  Attacks with this weapons may count as Unarmed Strikes.  When making Unarmed Strikes, you may use the damage of this weapon.  Fiery - this weapon deals 1d6 Fire Damage.
+
+Mask of Flame (Attunement Required) : Can use the following ability a number of times per day equal to your proficiency bonus.  Uses reset upon Long Rest: Breath of Fire : Range: Self,  Area 15ft Cone.  DEX Save: DC 11. On Failure : 3d8 Fire Damage.  On Success : Half Damage.
+
+Cloak of the Pride : (Attunement Required)  +2 to Strength (Max 20)
+
+Distilled Echo : Once per day, create an echo of yourself.  This echo has hit points equal to your hit points, and an AC of 11.  As part of your action, you can have the echo move up to 30 feet and attack a creature with Unarmed Strike (+3 to hit, 1d8+1 force damage) Lasts a number of turns equal to your proficiency bonus. If the creature loses all it’s hit points, it disappears in a puff of mist.
